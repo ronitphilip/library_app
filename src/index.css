@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Open Sans", serif;
+    color: white;    
+}
+
+.btn:hover .addBtn,
+.btn:hover .editBtn {
+    color: black;
+}
